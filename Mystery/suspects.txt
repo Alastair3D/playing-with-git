@@ -28,3 +28,11 @@ Color: Blue
 Owner: Erika Owens
 Height: 6'5"
 Weight: 220 lbs
+
+
+License Plate L337P89
+Make: Honda
+Color: Teal
+Owner: Mike Bostock
+Height: 6'4"
+Weight: 173 lbs
