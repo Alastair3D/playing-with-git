@@ -1,0 +1,30 @@
+License Plate L337ZR9
+Make: Honda
+Color: Red
+Owner: Katie Park
+Height: 6'2"
+Weight: 189 lbs
+
+
+License Plate QOBSFKL
+Make: Honda
+Color: Blue
+Owner: Aurelie Kirkham
+Height: 5'11"
+Weight: 210 lbs
+
+
+License Plate L337GX9
+Make: Mazda
+Color: Orange
+Owner: John Keefe
+Height: 6'4"
+Weight: 185 lbs
+
+
+License Plate L337QE9
+Make: Honda
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
+Weight: 220 lbs
